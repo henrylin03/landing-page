@@ -89,7 +89,7 @@ img {
 }
 
 .four {
-    padding: 100px 0;
+    padding: 120px 0;
 }
 
 .four h2 {
@@ -103,12 +103,15 @@ img {
 .features {
     display: flex;
     justify-content: center;
+    gap: 100px;
+    flex-wrap: wrap
 }
 
 .features .container {
     display: flex;
     flex-direction: column;
     align-items: center;
+    max-width: 150px;
 }
 
 .features .caption {
