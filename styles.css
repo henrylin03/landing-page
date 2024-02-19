@@ -108,3 +108,7 @@ img {
     font-weight: 300;
     /* roboto "light" is 300 fw */
 }
+
+.quote-author {
+    text-align: right;
+}
