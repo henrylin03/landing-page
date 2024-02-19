@@ -37,8 +37,6 @@ li {
 }
 
 a {
-    color: #e5e7eb;
-    font-size: 18px;
     text-decoration: none;
 }
 
@@ -47,7 +45,8 @@ a {
     font-size: 48px;
 }
 
-.hero p {
+.hero p,
+a {
     color: #e5e7eb;
     font-size: 18px;
 }
