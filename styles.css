@@ -58,7 +58,7 @@ a {
 }
 
 .hero article,
-.hero img {
+img {
     max-width: 50%;
 }
 
@@ -93,4 +93,8 @@ button:hover {
 
 button:active {
     background-color: #2c7dff;
+}
+
+img {
+    border-radius: 1rem;
 }
