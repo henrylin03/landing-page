@@ -40,6 +40,10 @@ a {
     text-decoration: none;
 }
 
+.hero {
+    display: flex;
+}
+
 .hero strong {
     color: #f9faf8;
     font-size: 48px;
@@ -49,6 +53,11 @@ a {
 a {
     color: #e5e7eb;
     font-size: 18px;
+}
+
+.hero img {
+    width: 500px;
+    height: auto;
 }
 
 button {
