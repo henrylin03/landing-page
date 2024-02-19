@@ -102,3 +102,9 @@ img {
 .quote {
     background-color: #e5e7eb;
 }
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    /* roboto "light" is 300 fw */
+}
