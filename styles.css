@@ -104,3 +104,19 @@ img {
     margin-top: 80px;
     text-align: right;
 }
+
+.cta .box {
+    background-color: #3882f6;
+}
+
+.cta-text {
+    color: #e5e7eb;
+}
+
+.cta-text h2 {
+    font-size: 24px;
+}
+
+.cta-text p {
+    font-size: 18px;
+}
