@@ -87,7 +87,10 @@ button {
     line-height: 1rem;
 }
 
-/* TODO: add click behaviour too (optional) */
 button:hover {
     background-color: #4a8ffd;
+}
+
+button:active {
+    background-color: #2c7dff;
 }
