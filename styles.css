@@ -7,7 +7,8 @@
     font-family: "Roboto", Arial, sans-serif;
 }
 
-header {
+header,
+.hero {
     background-color: #1F2937;
 }
 
@@ -39,4 +40,9 @@ a {
     color: #e5e7eb;
     font-size: 18px;
     text-decoration: none;
+}
+
+.hero strong {
+    color: #f9faf8;
+    font-size: 48px;
 }
