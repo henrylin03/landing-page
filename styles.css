@@ -105,6 +105,16 @@ img {
     justify-content: center;
 }
 
+.features .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.features .caption {
+    text-align: center;
+}
+
 .empty-box {
     width: 150px;
     height: 150px;
