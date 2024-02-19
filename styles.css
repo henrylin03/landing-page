@@ -8,16 +8,7 @@
 }
 
 header {
-    padding: 15px 150px;
-}
-
-section {
-    padding: 90px 150px;
-}
-
-.content-container {
-    width: 80%;
-    margin: 0 auto;
+    padding: 15px 200px;
 }
 
 header,
@@ -48,10 +39,8 @@ a {
 }
 
 .hero {
+    padding: 100px 200px;
     line-height: 30px;
-}
-
-.hero .content-container {
     display: flex;
     align-items: center;
     gap: 50px;
@@ -101,6 +90,7 @@ img {
 
 .quote {
     background-color: #e5e7eb;
+    padding: 100px 300px;
 }
 
 .quote-text {
