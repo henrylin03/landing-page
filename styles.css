@@ -115,6 +115,7 @@ img {
 .cta .box {
     background-color: #3882f6;
     border-radius: 5px;
+    padding: 25px 150px;
     display: flex;
     justify-content: center;
     align-items: center;
