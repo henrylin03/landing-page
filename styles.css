@@ -11,18 +11,21 @@ section {
     padding: 150px 20px;
 }
 
+.content-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
 header,
 .hero {
     background-color: #1F2937;
 }
 
-.header-content {
+header .content-container {
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    width: 80%;
-    margin: 0 auto;
 }
 
 .logo {
@@ -46,6 +49,7 @@ a {
 
 .hero {
     display: flex;
+    gap: 50px;
 }
 
 .hero strong {
