@@ -91,7 +91,7 @@ img {
 .quote {
     background-color: #e5e7eb;
     color: #1f2937;
-    padding: 150px 300px;
+    padding: 100px 300px;
 }
 
 .quote-text {
@@ -109,11 +109,15 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 100px;
 }
 
 .cta .box {
     background-color: #3882f6;
-    border-radius: 0.5rem;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .cta-text {
