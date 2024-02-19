@@ -39,7 +39,7 @@ a {
 }
 
 .hero {
-    padding: 100px 200px;
+    padding: 150px 200px;
     line-height: 30px;
     display: flex;
     align-items: center;
@@ -90,7 +90,7 @@ img {
 
 .quote {
     background-color: #e5e7eb;
-    padding: 100px 300px;
+    padding: 150px 300px;
 }
 
 .quote-text {
@@ -100,5 +100,6 @@ img {
 }
 
 .quote-author {
+    margin-top: 80px;
     text-align: right;
 }
