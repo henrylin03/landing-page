@@ -53,6 +53,11 @@ a {
     gap: 50px;
 }
 
+.hero {
+    line-height: 30px;
+}
+
+
 .hero article,
 .hero img {
     max-width: 50%;
@@ -61,6 +66,10 @@ a {
 .hero strong {
     color: #f9faf8;
     font-size: 48px;
+}
+
+.hero p {
+    margin: 20px 0;
 }
 
 .hero p,
@@ -76,8 +85,10 @@ button {
     border-radius: 5px;
     padding: 5px 20px;
     cursor: pointer;
+    line-height: 1rem;
 }
 
+/* TODO: add click behaviour too (optional) */
 button:hover {
     background-color: #4a8ffd;
 }
