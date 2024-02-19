@@ -98,3 +98,7 @@ button:active {
 img {
     border-radius: 1rem;
 }
+
+.quote {
+    background-color: #e5e7eb;
+}
