@@ -50,3 +50,16 @@ a {
     color: #e5e7eb;
     font-size: 18px;
 }
+
+button {
+    all: unset;
+    background-color: #3882F6;
+    color: #e5e7eb;
+    border-radius: 5px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4a8ffd;
+}
