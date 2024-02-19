@@ -47,9 +47,15 @@ a {
     text-decoration: none;
 }
 
-.hero {
+.hero .content-container {
     display: flex;
+    align-items: center;
     gap: 50px;
+}
+
+.hero article,
+.hero img {
+    max-width: 50%;
 }
 
 .hero strong {
@@ -63,10 +69,10 @@ a {
     font-size: 18px;
 }
 
-.hero img {
+/* .hero img {
     width: 500px;
     height: auto;
-}
+} */
 
 button {
     all: unset;
