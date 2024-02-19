@@ -117,12 +117,13 @@ img {
     border-radius: 5px;
     padding: 25px 150px;
     display: flex;
-    justify-content: center;
     align-items: center;
+    gap: 150px;
 }
 
 .cta-text {
     color: #e5e7eb;
+    flex: 3;
 }
 
 .cta-text h2 {
