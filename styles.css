@@ -88,6 +88,14 @@ img {
     border-radius: 1rem;
 }
 
+.empty-box {
+    width: 100px;
+    height: 100px;
+    border: medium solid #3882f6;
+    border-radius: 10px;
+}
+
+
 .quote {
     background-color: #e5e7eb;
     color: #1f2937;
