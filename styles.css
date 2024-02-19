@@ -100,8 +100,8 @@ img {
 }
 
 .empty-box {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border: medium solid #3882f6;
     border-radius: 10px;
 }
