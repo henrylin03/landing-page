@@ -132,3 +132,10 @@ img {
 .cta button {
     border: medium solid #e5e7eb;
 }
+
+footer {
+    background-color: #1F2937;
+    color: #e5e7eb;
+    text-align: center;
+    padding: 20px 0;
+}
